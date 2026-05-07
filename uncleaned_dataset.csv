@@ -1,0 +1,17 @@
+Student_ID,Gender,Hours_Study,Attendance,Marks,Result
+101,Male,5,85,78,Pass
+102,Female,4,90,82,Pass
+103,male,,88,76,Pass
+104,Female,2,60,45,Fail
+105,Male,6,95,91,Pass
+106,Female,3,,58,Fail
+107,Male,7,98,95,Pass
+108,Female,1,50,35,Fail
+109,Male, 5 ,80,72,Pass
+110,Female,4,85,,Pass
+111,Male,6,92,89,Pass
+112,Female,2,65,48,Fail
+113,Male,abc,70,55,Fail
+114,Female,5,88,81,Pass
+115,male,7,96,94,Pass
+115,male,7,96,94,Pass
